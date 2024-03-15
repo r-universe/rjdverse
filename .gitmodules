@@ -5,52 +5,52 @@
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/rjdverse/rjd3bench
-	branch = *release
+	branch = v2.0.0
 [submodule "rjd3filters"]
 	path = rjd3filters
 	url = https://github.com/rjdverse/rjd3filters
-	branch = *release
+	branch = v2.1.0
 [submodule "rjd3highfreq"]
 	path = rjd3highfreq
 	url = https://github.com/rjdverse/rjd3highfreq
-	branch = *release
+	branch = v2.1.0
 [submodule "rjd3nowcasting"]
 	path = rjd3nowcasting
 	url = https://github.com/rjdverse/rjd3nowcasting
-	branch = *release
+	branch = v2.0.1
 [submodule "rjd3providers"]
 	path = rjd3providers
 	url = https://github.com/rjdverse/rjd3providers
-	branch = *release
+	branch = v3.2.2
 [submodule "rjd3revisions"]
 	path = rjd3revisions
 	url = https://github.com/rjdverse/rjd3revisions
-	branch = *release
+	branch = v1.3.1
 [submodule "rjd3stl"]
 	path = rjd3stl
 	url = https://github.com/rjdverse/rjd3stl
-	branch = *release
+	branch = v2.1.0
 [submodule "rjd3sts"]
 	path = rjd3sts
 	url = https://github.com/rjdverse/rjd3sts
-	branch = *release
+	branch = v2.1.0
 [submodule "rjd3toolkit"]
 	path = rjd3toolkit
 	url = https://github.com/rjdverse/rjd3toolkit
-	branch = *release
+	branch = v3.2.2
 [submodule "rjd3tramoseats"]
 	path = rjd3tramoseats
 	url = https://github.com/rjdverse/rjd3tramoseats
-	branch = *release
+	branch = v3.2.2
 [submodule "rjd3workspace"]
 	path = rjd3workspace
 	url = https://github.com/rjdverse/rjd3workspace
-	branch = *release
+	branch = v3.2.2
 [submodule "rjd3x11plus"]
 	path = rjd3x11plus
 	url = https://github.com/rjdverse/rjd3x11plus
-	branch = *release
+	branch = v2.1.0
 [submodule "rjd3x13"]
 	path = rjd3x13
 	url = https://github.com/rjdverse/rjd3x13
-	branch = *release
+	branch = v3.2.2
