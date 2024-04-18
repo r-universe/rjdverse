@@ -1,5 +1,11 @@
 [
   {
+    "package": "rjd3filters",
+    "url": "https://github.com/rjdemetra/rjd3filters",
+    "via": ["rjd3x11plus"],
+    "from": "rjd3x11plus"
+  },
+  {
     "package": "rjd3toolkit",
     "url": "https://github.com/rjdemetra/rjd3toolkit",
     "via": ["rjd3filters"],
@@ -16,6 +22,12 @@
     "url": "https://github.com/rjdemetra/rjd3toolkit",
     "via": ["rjd3tramoseats"],
     "from": "rjd3tramoseats"
+  },
+  {
+    "package": "rjd3toolkit",
+    "url": "https://github.com/rjdemetra/rjd3toolkit",
+    "via": ["rjd3x11plus"],
+    "from": "rjd3x11plus"
   },
   {
     "package": "rjd3toolkit",
