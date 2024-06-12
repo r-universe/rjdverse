@@ -17,7 +17,7 @@
 [submodule "rjd3nowcasting"]
 	path = rjd3nowcasting
 	url = https://github.com/rjdverse/rjd3nowcasting
-	branch = v2.0.1
+	branch = v2.0.2
 [submodule "rjd3providers"]
 	path = rjd3providers
 	url = https://github.com/rjdverse/rjd3providers
