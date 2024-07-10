@@ -49,7 +49,7 @@
   },
   {
     "package": "rjd3toolkit",
-    "url": "https://github.com/rjdemetra/rjd3toolkit",
+    "url": "https://github.com/rjdverse/rjd3toolkit",
     "via": ["rjd3revisions"],
     "from": "rjd3revisions"
   },
