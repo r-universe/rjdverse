@@ -37,7 +37,7 @@
 [submodule "rjd3toolkit"]
 	path = rjd3toolkit
 	url = https://github.com/rjdverse/rjd3toolkit
-	branch = v3.2.2
+	branch = v3.2.4
 [submodule "rjd3tramoseats"]
 	path = rjd3tramoseats
 	url = https://github.com/rjdverse/rjd3tramoseats
