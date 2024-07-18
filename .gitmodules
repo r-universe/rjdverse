@@ -5,7 +5,7 @@
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/rjdverse/rjd3bench
-	branch = v2.0.1
+	branch = v2.1.0
 [submodule "rjd3filters"]
 	path = rjd3filters
 	url = https://github.com/rjdverse/rjd3filters
