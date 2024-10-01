@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/rjdverse/rjdverse.r-universe.dev
 	branch = HEAD
+[submodule "RJDemetra"]
+	path = RJDemetra
+	url = https://github.com/rjdverse/rjdemetra
 [submodule "rjd3bench"]
 	path = rjd3bench
 	url = https://github.com/rjdverse/rjd3bench
