@@ -40,7 +40,7 @@
 [submodule "rjd3toolkit"]
 	path = rjd3toolkit
 	url = https://github.com/rjdverse/rjd3toolkit
-	branch = untagged-4803cf1781bfe14b3949
+	branch = v3.3.0
 [submodule "rjd3tramoseats"]
 	path = rjd3tramoseats
 	url = https://github.com/rjdverse/rjd3tramoseats
@@ -48,7 +48,7 @@
 [submodule "rjd3workspace"]
 	path = rjd3workspace
 	url = https://github.com/rjdverse/rjd3workspace
-	branch = v3.2.3
+	branch = v3.2.4
 [submodule "rjd3x11plus"]
 	path = rjd3x11plus
 	url = https://github.com/rjdverse/rjd3x11plus
