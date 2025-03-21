@@ -28,7 +28,7 @@
 [submodule "rjd3revisions"]
 	path = rjd3revisions
 	url = https://github.com/rjdverse/rjd3revisions
-	branch = v1.4.0
+	branch = v1.4.1
 [submodule "rjd3stl"]
 	path = rjd3stl
 	url = https://github.com/rjdverse/rjd3stl
