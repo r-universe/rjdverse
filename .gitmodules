@@ -24,7 +24,7 @@
 [submodule "rjd3providers"]
 	path = rjd3providers
 	url = https://github.com/rjdverse/rjd3providers
-	branch = v3.2.3
+	branch = v3.5.0
 [submodule "rjd3revisions"]
 	path = rjd3revisions
 	url = https://github.com/rjdverse/rjd3revisions
