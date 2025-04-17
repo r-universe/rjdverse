@@ -16,7 +16,7 @@
 [submodule "rjd3highfreq"]
 	path = rjd3highfreq
 	url = https://github.com/rjdverse/rjd3highfreq
-	branch = v2.1.1
+	branch = v2.3.0
 [submodule "rjd3nowcasting"]
 	path = rjd3nowcasting
 	url = https://github.com/rjdverse/rjd3nowcasting
@@ -32,7 +32,7 @@
 [submodule "rjd3stl"]
 	path = rjd3stl
 	url = https://github.com/rjdverse/rjd3stl
-	branch = v2.1.1
+	branch = v2.3.0
 [submodule "rjd3sts"]
 	path = rjd3sts
 	url = https://github.com/rjdverse/rjd3sts
