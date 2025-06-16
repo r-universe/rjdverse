@@ -56,4 +56,4 @@
 [submodule "rjd3x13"]
 	path = rjd3x13
 	url = https://github.com/rjdverse/rjd3x13
-	branch = v3.5.0
+	branch = v3.5.1
