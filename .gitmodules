@@ -48,7 +48,7 @@
 [submodule "rjd3workspace"]
 	path = rjd3workspace
 	url = https://github.com/rjdverse/rjd3workspace
-	branch = v3.5.0
+	branch = v3.5.1
 [submodule "rjd3x11plus"]
 	path = rjd3x11plus
 	url = https://github.com/rjdverse/rjd3x11plus
