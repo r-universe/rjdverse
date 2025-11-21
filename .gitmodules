@@ -44,7 +44,7 @@
 [submodule "rjd3tramoseats"]
 	path = rjd3tramoseats
 	url = https://github.com/rjdverse/rjd3tramoseats
-	branch = v3.5.2
+	branch = v3.6.0
 [submodule "rjd3workspace"]
 	path = rjd3workspace
 	url = https://github.com/rjdverse/rjd3workspace
