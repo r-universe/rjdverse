@@ -32,7 +32,7 @@
 [submodule "rjd3stl"]
 	path = rjd3stl
 	url = https://github.com/rjdverse/rjd3stl
-	branch = v2.3.0
+	branch = v2.4.0
 [submodule "rjd3sts"]
 	path = rjd3sts
 	url = https://github.com/rjdverse/rjd3sts
