@@ -17,6 +17,9 @@
 	path = rjd3highfreq
 	url = https://github.com/rjdverse/rjd3highfreq
 	branch = v2.3.0
+[submodule "rjd3jars"]
+	path = rjd3jars
+	url = https://github.com/rjdverse/rjd3jars
 [submodule "rjd3nowcasting"]
 	path = rjd3nowcasting
 	url = https://github.com/rjdverse/rjd3nowcasting
@@ -40,11 +43,9 @@
 [submodule "rjd3toolkit"]
 	path = rjd3toolkit
 	url = https://github.com/rjdverse/rjd3toolkit
-	branch = v3.6.0
 [submodule "rjd3tramoseats"]
 	path = rjd3tramoseats
 	url = https://github.com/rjdverse/rjd3tramoseats
-	branch = v3.6.0
 [submodule "rjd3workspace"]
 	path = rjd3workspace
 	url = https://github.com/rjdverse/rjd3workspace
@@ -56,4 +57,3 @@
 [submodule "rjd3x13"]
 	path = rjd3x13
 	url = https://github.com/rjdverse/rjd3x13
-	branch = v3.6.0

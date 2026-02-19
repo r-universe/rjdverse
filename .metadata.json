@@ -1,17 +1,5 @@
 [
   {
-    "package": "rjd3toolkit",
-    "releasetag": true
-  },
-  {
-    "package": "rjd3x13",
-    "releasetag": true
-  },
-  {
-    "package": "rjd3tramoseats",
-    "releasetag": true
-  },
-  {
     "package": "rjd3providers",
     "releasetag": true
   },
