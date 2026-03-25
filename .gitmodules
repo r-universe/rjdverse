@@ -57,3 +57,6 @@
 [submodule "rjd3x13"]
 	path = rjd3x13
 	url = https://github.com/rjdverse/rjd3x13
+[submodule "rjd3xjars"]
+	path = rjd3xjars
+	url = https://github.com/rjdverse/rjd3xjars
