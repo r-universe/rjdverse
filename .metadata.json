@@ -8,10 +8,6 @@
     "releasetag": true
   },
   {
-    "package": "rjd3filters",
-    "releasetag": true
-  },
-  {
     "package": "rjd3x11plus",
     "releasetag": true
   },
